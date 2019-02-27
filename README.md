@@ -4,14 +4,17 @@ KNN Classifier that classifies and plots the popular programming languages acros
 A scatter series is then plotter based on KNN predictions. 
 
 ## Screenshots of usage
-##### Output predictions
+### Output predictions
 ![output](knn.py_output.png)
 
-##### Scatter series for k=1
+### Original dataset plot
+![dataset](CitiesPlot.png)
+
+### Scatter series for k=1
 ![k1](ScatterPlot_K=1.png)
 
-##### Scatter series for k=3
+### Scatter series for k=3
 ![k3](ScatterPlot_K=3.png)
 
-##### Scatter series for k=5
+### Scatter series for k=5
 ![k5](ScatterPlot_K=5.png)
